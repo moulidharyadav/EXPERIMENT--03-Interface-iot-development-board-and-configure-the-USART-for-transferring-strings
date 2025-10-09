@@ -276,6 +276,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output screen shots of Serial port utility   :
+<img width="987" height="829" alt="image" src="https://github.com/user-attachments/assets/973476a7-d706-4fdf-a5b3-09f1814d797b" />
 
  
  
