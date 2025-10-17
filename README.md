@@ -148,8 +148,8 @@ int main(void)
   /* Infinite loop */
   while (1)
   {
-    printf("N.NAVYA SREE\r\n");
-    printf("212223040138\r\n\r\n");
+    printf("Saveetha Engineering College\r\n");
+    printf("SCOFT\r\n\r\n");
     HAL_Delay(500);
   }
 }
